@@ -133,6 +133,9 @@ span#pit span.button {
 span#pieces span.button {
     color: #89572F;
     font-size: 17px;
+    width: 100%;
+    padding: 0;
+    text-transform: uppercase;
 }
 
 span#pieces span.button.on {

@@ -78,8 +78,8 @@ span#sped_label_label {
 }
 div#score {
 	position: absolute;
-	top: 62%;
-	right: 17.7%;
+	top: 26%;
+	right: -18.5%;
 	font-size: 30px;
 	width: 116px;
 	border: 3px solid #0000AA;
@@ -88,9 +88,9 @@ div#score {
 	padding-right: 2px;
 }
 #score_label{
-	right: 16%;
+	right: -22%;
 	position: absolute;
-	top: 58%;
+	top: 23%;
 	font-size: 13px;
 	width: 156px;
 	text-transform: uppercase;

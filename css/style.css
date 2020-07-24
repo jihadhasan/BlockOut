@@ -78,13 +78,14 @@ span#sped_label_label {
 }
 div#score {
 	position: absolute;
-	top: 316px;
-	right: 220px;
+	top: 62%;
+	right: 17.7%;
 	font-size: 30px;
-	width: 118px;
+	width: 116px;
 	border: 3px solid #0000AA;
 	font-family: sans-serif;
 	color: #00AA00;
+	padding-right: 2px;
 }
 #score_label{
 	right: 200px;

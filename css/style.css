@@ -59,6 +59,7 @@ span#pieces {
     border: 3px solid #0000AA;
     box-sizing: border-box;
     margin-left: 3px;
+    padding: 0 !important;
 }
 
 span#pit {
@@ -133,6 +134,7 @@ span#pit span.button {
 span#pieces span.button {
     color: #89572F;
     font-size: 17px;
+    text-transform: uppercase;
 }
 
 span#pieces span.button.on {
@@ -140,6 +142,8 @@ span#pieces span.button.on {
     font-size: 23px;
     padding: 0;
     margin: 0;
+    font-weight: bolder;
+    width: 100%;
 }
 
 span#pit span.button.on {

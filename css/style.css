@@ -119,6 +119,8 @@ span#keys {
 span.pieces_label_text {
     margin-top: 15px;
     color:  #ADD8E6;
+    font-size: 15px !important;
+    letter-spacing: 3px;
 }
 span#pit span.button {
     color: #89572F;

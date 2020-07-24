@@ -87,6 +87,7 @@ div#score {
 	font-family: sans-serif;
 	color: #00AA00;
 	padding-right: 2px;
+	display: block !important;
 }
 #score_label{
 	right: -22%;

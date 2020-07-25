@@ -188,6 +188,7 @@ div#column {
     border: 2px solid #00AA00;
     bottom: 96.3%;
     border-top: 0;
+    border-bottom: 4px solid #00AA00;
 }
 
 canvas#screen2 {

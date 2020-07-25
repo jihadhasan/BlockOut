@@ -181,3 +181,17 @@ span#keys span.button {
     font-size: 15px;
     padding: 3px 0;
 }
+div#column {
+    position: absolute;
+    left: -36px;
+    height: 186px;
+    border: 2px solid #00AA00;
+    bottom: 96.3%;
+}
+
+canvas#screen2 {
+    padding: 3px;
+    margin-left: -3.5px;
+    width: 16.5px;
+    margin-top: -34px;
+}

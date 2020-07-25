@@ -25,7 +25,6 @@ span#speed span.button {
     color: #89572F !important;
     font-weight: bolder;
     padding: 0;
-    margin-top: -10px;
 }
 
 span#speed span.button.on {
@@ -184,19 +183,17 @@ span#keys span.button {
 }
 div#column {
     position: absolute;
-    left: -49px;
+    left: -36px;
     height: 186px;
     border: 2px solid #00AA00;
     bottom: 96.3%;
     border-top: 0;
     border-bottom: 4px solid #00AA00;
-    width: 40px;
 }
 
 canvas#screen2 {
     padding: 3px;
     margin-left: -3.5px;
-    width: 41.5px;
-    margin-top: -25px;
-    height: 211px;
+    width: 16.5px;
+    margin-top: -34px;
 }
